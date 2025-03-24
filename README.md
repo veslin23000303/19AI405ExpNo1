@@ -32,6 +32,7 @@ Measure the performance parameters: For each cleaning performance incremented, f
 
 
 ## CODE:
+'''
 import random
 import time
 class Thing:
@@ -214,6 +215,8 @@ print(environment.status)
 environment.run(steps=10)
 print(environment.status)
 print(agent.performance)
+
+'''
 
 ## OUTPUT:
 ![Screenshot 2025-03-24 084535](https://github.com/user-attachments/assets/803d6c3f-aadd-401b-9a04-6f25f4007594)
